@@ -11,8 +11,8 @@ namespace projeto_git
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo!");
-            Console.WriteLine("Boa noite!");
             Console.WriteLine("Será que vai chover?");
+            Console.WriteLine("Tomara");
             Console.ReadLine();
         }
     }
